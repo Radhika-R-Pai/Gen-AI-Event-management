@@ -1,0 +1,22 @@
+# GenAI Event Management System
+
+A Flask-based Generative AI application that assists users with event planning.
+
+## Features
+- AI-based event suggestions
+- Budget estimation
+- Event planning assistance
+
+## Tech Stack
+- Python
+- Flask
+- OpenAI API
+
+## How to Run
+1. Install dependencies  
+   pip install -r requirements.txt
+2. Add your API key in app.py
+3. Run the app  
+   python app.py
+4. Open browser  
+   http://127.0.0.1:5000/
